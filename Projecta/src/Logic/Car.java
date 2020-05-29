@@ -8,4 +8,19 @@ public class Car {
         this.mileage = mileage;
         this.actualSpeed = actualSpeed;
     }
+
+    public int getActualSpeed() {
+        return actualSpeed;
+    }
+
+    public int getMileage() {
+        return mileage;
+    }
+
+    public void setActualSpeed(int actualSpeed) {
+        this.actualSpeed = actualSpeed;
+    }
+
+    public void setMileage(int mileage) {
+    }
 }

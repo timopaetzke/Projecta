@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="d09623da-71f2-4f0c-9c48-f7c8f3f4209b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic/Car.java" afterDir="false" />
+=======
     <list default="true" id="bd6edd9f-34a7-4442-a8ab-d6e3c8321148" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/UIPackage/UIMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UIPackage/UIMain.java" afterDir="false" />
+>>>>>>> 4363b4d019883afc9cf4acbd997fab120201bea0
+>>>>>>> 72d3ba1bed46ad12958849472d91fb722d294295
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +57,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="d09623da-71f2-4f0c-9c48-f7c8f3f4209b" name="Default Changelist" comment="" />
+      <created>1590669063599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590669063599</updated>
+      <workItem from="1590669064871" duration="418000" />
+      <workItem from="1590729612571" duration="402000" />
+      <workItem from="1590730547537" duration="58000" />
+=======
       <changelist id="bd6edd9f-34a7-4442-a8ab-d6e3c8321148" name="Default Changelist" comment="" />
       <created>1590668332382</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590668332382</updated>
       <workItem from="1590668334591" duration="707000" />
+<<<<<<< HEAD
       <workItem from="1590730015816" duration="981000" />
+=======
+      <workItem from="1590730015816" duration="435000" />
+>>>>>>> 4363b4d019883afc9cf4acbd997fab120201bea0
+>>>>>>> 72d3ba1bed46ad12958849472d91fb722d294295
     </task>
     <servers />
   </component>

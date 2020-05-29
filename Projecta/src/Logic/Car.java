@@ -23,4 +23,7 @@ public class Car {
 
     public void setMileage(int mileage) {
     }
+    public void beschleunigen(){
+        this.actualSpeed += 5;
+    }
 }
